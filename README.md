@@ -27,7 +27,7 @@ from pydub.silence import detect_nonsilent
 from joblib import Parallel, delayed
 from tqdm import tqdm
 Customize the example usage section in the script:
-python
+```python
 Copy code
 video_path = "/path/to/input/video.mp4"
 output_path = "/path/to/output/modified_video.mp4"
