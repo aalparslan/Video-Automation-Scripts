@@ -21,7 +21,7 @@ Copy code
 
 2. Import the required libraries
 
-##Customization
+## Customization
 
 Adjust the decibel_threshold variable to set the threshold for silence detection. Lower values indicate quieter sounds will be considered as silence.
 Modify the min_section_duration variable to specify the minimum duration (in milliseconds) for a non-silent section to be included in the output.
