@@ -1,8 +1,7 @@
 # Video-Automation-Scripts
-## 1. Video Silence Removal
-## 2. .gif 2 .mp4
 
-## GIF to MP4 Converter
+
+## 1. GIF to MP4 Converter
 This Python script converts all the .gif files in a specified directory to .mp4 files using the `moviepy` library.
 
 ### Prerequisites
@@ -24,7 +23,7 @@ This Python script converts all the .gif files in a specified directory to .mp4 
 The script will convert each .gif file to an .mp4 file using the `libx264` codec and save it in the same directory.
 The original .gif files will be removed after successful conversion.
 
-## Video Silence Removal
+## 2. Video Silence Removal
 This Python script removes silence from videos by extracting non-silent sections and creating a modified video with proper audio.
 
 ### Requirements
