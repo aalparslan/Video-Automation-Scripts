@@ -25,10 +25,6 @@ This Python script converts all the .gif files in a specified directory to .mp4 
 The script will convert each .gif file to an .mp4 file using the `libx264` codec and save it in the same directory.
 The original .gif files will be removed after successful conversion.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 # Video Silence Removal
 
 This Python script removes silence from videos by extracting non-silent sections and creating a modified video with proper audio.
@@ -56,3 +52,7 @@ Change the margin_duration variable to add extra time (in milliseconds) before a
 Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
